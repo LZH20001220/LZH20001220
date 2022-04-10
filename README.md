@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LZH20001220
-- 👀 I’m interested in programming
+- 👀 I’m interested in distributed network.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 422084310@qq.com
